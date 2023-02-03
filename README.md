@@ -1,9 +1,10 @@
 # SRD20
-Reference system document with the 20-sided dice.
+(EN) Reference system document with the 20-sided dice.
+(ES) Sistema de Referencia Documentado que usa el dado de 20 caras.
 
 ## [EN] Rules manual in English
-- [Open Use License (OUL)](EN/License.md)
+- [Eternal License Forever (ELF)](EN/ELF-Eternal-License-Forever.md)
 
 ## [ES] Manual de reglas en Español
 - [Tentáculos](ES/TENTACULOS)
-- [Licencia de Uso Abierto (LUA)](ES/Licencia.md)
+- [Licencia Eterna para Siempre (LES)](ES/LES-Licencia-Eterna-para-Siempre.md)

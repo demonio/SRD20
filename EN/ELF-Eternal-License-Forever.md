@@ -1,5 +1,5 @@
-(ELF) Eternal License Forever (Unique, definitive and irrevocable version)
-This license protects the System Reference Document (SRD) and its derivative against sequestration, with the only requirement that it must be included unmodified on a page of the resulting work.
+(ELF) Eternal License Forever (Worldwide, irrevocable, free and unalterable version)
+This license protects the work and its derivative works by preventing the change to another license, so that others may use the content subject to this license, with the only requirement that the text of the unmodified license must be included on a digital or physical page of the resulting work in a legible font and the logo of the same on the front or back cover as large as possible either of a physical or digital material.
 
 1. Concepts:
 (a) "User" is one who uses the SRD to create and disseminate a derivative work thereof.

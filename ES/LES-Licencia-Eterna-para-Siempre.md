@@ -1,5 +1,5 @@
-(LES) LICENCIA ETERNA PARA SIEMPRE (Versión única, definitiva e irrevocable)
-Esta licencia protege el (SRD) Sistema de Referencia Documentado y lo derivado del mismo frente al secuestro este, con el único requisito de que debe incluirse sin modificar en una página de la obra resultante.
+(LES) LICENCIA ETERNA PARA SIEMPRE (Versión mundial, irrevocable, libre e inalterable)
+Esta licencia protege la obra y lo derivado de la misma impidiendo el cambio a otra licencia, para que otros puedan usar el contenido sujeto a esta licencia, con el único requisito de que debe incluirse el texto de la licencia sin modificar en una página digital o física de la obra resultante en una letra legible y el logo de la misma en la portada o contraportada tan grande como se pueda ya sea de un material físico o digital.
 
 1. Conceptos:
 (a) "Usuario" es aquel que utiliza el SRD para crear y difundir una obra derivada del mismo.

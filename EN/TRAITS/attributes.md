@@ -3,7 +3,7 @@
 - The antonyms reflect the resulting state of a diminished attribute. 
 
 ## Fortitude
-- Synonyms: Courage, Brio, Toughness, Energy, Stamina, Firmness, Claw, Strength, Power, Endurance, Robustness, Vigor, Vitality.
+- Synonyms: Courage, Brio, Toughness, Stamina, Firmness, Claw, Strength, Power, Endurance, Robustness, Vigor, Vitality.
 - Antonyms: Dejection, Weakness.
 
 ## Agility

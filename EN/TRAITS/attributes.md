@@ -5,3 +5,7 @@
 ## Fortitude
 - Synonyms: Courage, Brio, Toughness, Energy, Stamina, Firmness, Claw, Strength, Power, Endurance, Robustness, Vigor, Vitality.
 - Antonyms: Dejection, Weakness.
+
+## Agility
+- Synonyms: Dexterity, Dynamism, Elasticity, Subtlety, Rapidity, Speed.
+- Antonyms: Slowness, Clumsiness.

@@ -9,3 +9,7 @@
 ## Agilidad
 - Sinónimos: Destreza, Dinamismo, Elasticidad, Sutileza, Rapidez, Velocidad.
 - Antónimos: Lentitud, Torpeza.
+
+## Inteligencia
+- Sinónimos: Comprensión, Entendimiento, Imaginación, Ingenio, Intelecto, Juicio, Mente, Pensamiento, Razón.
+- Antónimos: Incultura, Ineptitud.

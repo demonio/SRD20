@@ -9,3 +9,7 @@
 ## Agility
 - Synonyms: Dexterity, Dynamism, Elasticity, Subtlety, Rapidity, Speed.
 - Antonyms: Slowness, Clumsiness.
+
+## Intelligence
+- Synonyms: Comprehension, Understanding, Imagination, Wit, Intellect, Judgment, Mind, Thought, Reason.
+- Antonyms: Uncultured, Ineptitude.

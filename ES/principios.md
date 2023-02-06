@@ -1,2 +1,2 @@
 # Principios
-- Todo son rasgos: Toda palabra o frase que defina las propiedades de algo es un rasgo con un número (nivel que indica su magnitud). Estos rasgos son usados para obtener ventaja o lo contrario en una prueba de habilidad.
+- **Todo son rasgos:** Toda palabra o frase que defina las propiedades de algo es un rasgo con un número (nivel que indica su magnitud). Estos rasgos son usados para obtener ventaja o lo contrario en una prueba de habilidad.

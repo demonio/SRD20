@@ -5,11 +5,13 @@ Rule System with D20.
 ![Logo](https://github.com/demonio/SRD20/blob/main/LogoSRD20.png?raw=true)
 
 ## [EN] Rule System D20 in English
+- [Principles](ES/rrinciples.md)
 - [Traits](EN/TRAITS)
     - [Attributes](EN/TRAITS/attributes.md)
 - [Eternal License Forever (ELF)](EN/ELF-Eternal-License-Forever.md)
 
 ## [ES] Sistema de Reglas D20 en Español
+- [Principios](ES/principios.md)
 - [Rasgos](ES/RASGOS)
     - [Atributos](ES/RASGOS/atributos.md)
 - [Tentáculos](ES/TENTACULOS)

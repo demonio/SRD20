@@ -13,3 +13,7 @@
 ## Inteligencia
 - Sinónimos: Comprensión, Entendimiento, Imaginación, Ingenio, Intelecto, Juicio, Mente, Pensamiento, Razón.
 - Antónimos: Incultura, Ineptitud.
+
+## Percepción
+- Sinónimos: Agudeza, Apreciación, Captación, Discernimiento, Impresión, Perspicacia, Sagacidad, Sensación, Sentimiento.
+- Antónimos: Indiferencia, Insensible.

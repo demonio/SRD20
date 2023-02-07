@@ -13,3 +13,7 @@
 ## Intelligence
 - Synonyms: Comprehension, Understanding, Imagination, Wit, Intellect, Judgment, Mind, Thought, Reason.
 - Antonyms: Uncultured, Ineptitude.
+
+## Perception
+- Synonyms: Acuity, Appreciation, Apprehension, Capture, Discernment, Impression, Perspicacity, Sagacity, Sensation, Feeling.
+- Antonyms: Indifference, Insensitive.

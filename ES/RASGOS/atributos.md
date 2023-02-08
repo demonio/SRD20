@@ -17,3 +17,7 @@
 ## Percepción
 - Sinónimos: Agudeza, Apreciación, Captación, Discernimiento, Impresión, Perspicacia, Sagacidad, Sensación, Sentimiento.
 - Antónimos: Indiferencia, Insensible.
+
+## Presencia
+- Sinónimos: Apariencia, Disposición, Porte.
+- Antónimos: Ausencia, Inexistencia.

@@ -17,3 +17,7 @@
 ## Perception
 - Synonyms: Acuity, Appreciation, Apprehension, Capture, Discernment, Impression, Perspicacity, Sagacity, Sensation, Feeling.
 - Antonyms: Indifference, Insensitive.
+
+## Presence
+- Synonyms: Appearance, Disposition, Deportment.
+- Antonyms: Absence, Nonexistence.

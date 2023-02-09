@@ -19,5 +19,5 @@
 - Antonyms: Indifference, Insensitive.
 
 ## Presence
-- Synonyms: Appearance, Disposition, Deportment.
-- Antonyms: Absence, Nonexistence.
+Those beings endowed with high values in Presence, are empathic beings, with people skills, commanding respect or trustworthy. Wherever they go, they are listened to and cared for. 
+The opposite happens with those beings with low values in Presence, typical of murderers and thieves who want to be unnoticed. They are antisocial and generate distrust causing rejection when dealing with them.

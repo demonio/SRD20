@@ -19,5 +19,5 @@
 - Antónimos: Indiferencia, Insensible.
 
 ## Presencia
-- Sinónimos: Apariencia, Disposición, Porte.
-- Antónimos: Ausencia, Inexistencia.
+Aquellos seres dotados con valores altos en Presencia, son seres empáticos, con don de gentes, que imponen respeto o confiables. Allí dónde van son escuchados y atendidos. 
+Sucede lo contrario con aquellos seres con valores bajos en Presencia, propios de asesinos y ladrones que quieren desapercibidos. Son antisociales y generan desconfianza causando rechazo cuando se trata con ellos.

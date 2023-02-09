@@ -21,4 +21,4 @@
 ## Presence
 Those beings endowed with high values in Presence are empathic beings, with people skills, who command respect or transmit confidence. Wherever they go, they are listened to and cared for.
 
-The opposite happens with those beings with low values in Presence, typical of murderers and thieves who want to go unnoticed. They are antisocial, generate distrust and cause rejection when dealing with them.
+The opposite happens with those beings with low values in Presence, typical of antisocial beings, who generate distrust and cause rejection when dealing with them.

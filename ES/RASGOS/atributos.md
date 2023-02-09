@@ -21,4 +21,4 @@
 ## Presencia
 Aquellos seres dotados con valores altos en Presencia, son seres empáticos, con don de gentes, que imponen respeto o que transmiten confianza. Allí dónde van son escuchados y atendidos.
 
-Sucede lo contrario con aquellos seres con valores bajos en Presencia, propios de seres antisociales, que generan desconfianza y causan rechazo cuando se trata con ellos.
+Sucede lo contrario con valores bajos en Presencia, propio de seres antisociales, que generan desconfianza y causan rechazo cuando se trata con ellos.

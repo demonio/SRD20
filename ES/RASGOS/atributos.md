@@ -10,6 +10,10 @@
 - Sinónimos: Destreza, Dinamismo, Elasticidad, Sutileza, Rapidez, Velocidad.
 - Antónimos: Lentitud, Torpeza.
 
+## Voluntad
+- Sinónimos: Constancia, Empeño, Obstinación, Perseverancia, Tenacidad, Tesón.
+- Antónimos: Apatía, Repulsa.
+
 ## Inteligencia
 - Sinónimos: Comprensión, Entendimiento, Imaginación, Ingenio, Intelecto, Juicio, Mente, Pensamiento, Razón.
 - Antónimos: Incultura, Ineptitud.

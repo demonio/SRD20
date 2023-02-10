@@ -10,6 +10,10 @@
 - Synonyms: Dexterity, Dynamism, Elasticity, Subtlety, Rapidity, Speed.
 - Antonyms: Slowness, Clumsiness.
 
+## Will
+- Synonyms: Constancy, Perseverance, Tenacity.
+- Antonyms: Apathy, Repulsion.
+
 ## Intelligence
 - Synonyms: Comprehension, Understanding, Imagination, Wit, Intellect, Judgment, Mind, Thought, Reason.
 - Antonyms: Uncultured, Ineptitude.

@@ -14,5 +14,4 @@ Rule System with D20.
 - [Principios](ES/principios.md)
 - [Rasgos](ES/RASGOS)
     - [Atributos](ES/RASGOS/atributos.md)
-- [Tentáculos](ES/TENTACULOS)
 - [Licencia Eterna para Siempre (LES)](ES/LES-Licencia-Eterna-para-Siempre.md)

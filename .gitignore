@@ -1,2 +1,11 @@
-._*
+﻿private/config/
+private/temp/
+.vscode/
+*.ini
+*.log
+Thumbs.db
+__OLD__/
+**/__OLD__/
 __OLD__*
+**/__OLD__*
+web/img/
